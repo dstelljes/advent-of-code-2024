@@ -1,3 +1,4 @@
 # Advent of Code 2024
 
 *   [Day 1: Historian Hysteria](./day-1/src/main.rs)
+*   [Day 2: Red-Nosed Reports](./day-2/src/main.rs)
