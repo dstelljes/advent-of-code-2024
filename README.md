@@ -5,3 +5,4 @@
 *   [Day 3: Mull It Over](./day-3/src//main.rs)
 *   [Day 4: Ceres Search](./day-4/src/main.rs)
 *   [Day 5: Print Queue](./day-5/src/main.rs)
+*   [Day 6: Guard Gallivant](./day-6/src/main.rs)
