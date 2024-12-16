@@ -13,3 +13,4 @@
 *   [Day 11: Plutonian Pebbles](./day-11/src/main.rs)
 *   [Day 12: Garden Groups](./day-12/src/main.rs)
 *   [Day 13: Claw Contraption](./day-13/src/main.rs)
+*   [Day 14: Restroom Redoubt](./day-14/src/main.rs)
